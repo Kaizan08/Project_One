@@ -331,16 +331,15 @@ table, tr, td{
     margin-top: 24px;
     text-align: center;
 }
-#weekly_newsletter form{
-    padding-left: 30px;
-}
+
 #weekly_newsletter input{
-    width: 94%;
+    width: 90%;
     text-align: left;
     border: none;
     font-size: 24px;
     border-bottom: 2px solid #978874;
-    margin-top: 15px;
+    margin: 15px 5% 15px 5%;
+
 }
 #submit input[type=submit]{
     width: 22%;
@@ -353,7 +352,6 @@ table, tr, td{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: -30px;
 }
 #news_content{
     display: flex;
